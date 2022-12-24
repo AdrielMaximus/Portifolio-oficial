@@ -1,5 +1,17 @@
 @charset "UTF-8";
 
 body{
-    background-color: rgba(146, 153, 255, 0.897);
+    background-color: #2C57F2;
+}
+header{
+    background-color: white; 
+}
+nav{
+    background-color: white; 
+    text-decoration: none;
+}
+main{
+    background-color: white;
+    margin: auto;
+    width: 1350px;
 }
